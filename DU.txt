@@ -2,6 +2,7 @@ https://drive.google.com/file/d/1fZ0t89H4L_S_4E2WmpkcKWY3t63DuW16/view?usp=shari
 https://drive.google.com/u/1/uc?id=1fZ0t89H4L_S_4E2WmpkcKWY3t63DuW16&export=download
 
 https://downloads.actual-experience.com/d1ff276f6618577adf10e13ba28a6e30/Digital-user_5.0.0.0_demo.deb
+https://downloads.actual-experience.com/97aca0901b8b00a4d12f65fc64e7050a/DigitalUser_5.0.0.0_demo.msi
 
 AAT: 066b79b40a137f4da385e5b42963753790ada545
 Lab: 2ccf6505d56df231f75cddd3728d1d6ca83ba4a6
