@@ -1,3 +1,8 @@
 https://drive.google.com/file/d/1fZ0t89H4L_S_4E2WmpkcKWY3t63DuW16/view?usp=sharing
+https://drive.google.com/u/1/uc?id=1fZ0t89H4L_S_4E2WmpkcKWY3t63DuW16&export=download
 
 https://downloads.actual-experience.com/d1ff276f6618577adf10e13ba28a6e30/Digital-user_5.0.0.0_demo.deb
+
+066b79b40a137f4da385e5b42963753790ada545
+
+sudo DU_ANALYTICS_KEY=066b79b40a137f4da385e5b42963753790ada545 DU_DESCRIPTION=LS2 yum install du4.rpm
